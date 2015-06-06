@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing 
-your Jekyll theme, as well as basic Jekyll usage 
-documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello.  My name is John Dulin.  I recently graduated from Case Western Reserve University
+with a degree in Physics.  I am a hacker by habit and trade and am particularly
+interested in robotics, functional programming, startups, and
+cosmic topology searches.  As this website is developed more writings
+on these topics and my projects in them will be posted.
 
-You can find the source code for the Jekyll new theme at: 
-[github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at 
-[github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you would like to talk about any of these topics, my projects, or hiring me, 
+feel free to email me at dulinjd at GMail.

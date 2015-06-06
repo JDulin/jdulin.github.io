@@ -3,7 +3,12 @@ title: John Dulin
 email: dulinjd@gmail.com
 description: "John Dulin.  Hacking.  Physics.  Robots. Theater."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://johndulin.com"
+
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Resume: '/resume/'
 
 # Build settings
 markdown: kramdown
